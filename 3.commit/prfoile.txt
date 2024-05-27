@@ -1,2 +1,2 @@
-email :lhg2196
+email :lhg2196@naver.com
 gitID :lhg2199
